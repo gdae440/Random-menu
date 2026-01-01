@@ -1,0 +1,5 @@
+{
+  "name": "今天吃什么 (Chef's Choice)",
+  "description": "一个专为选择困难症设计的移动端优先菜谱应用。支持随机抽取、食材筛选以及基于 DeepSeek AI 的简易烹饪指导。",
+  "requestFramePermissions": []
+}
